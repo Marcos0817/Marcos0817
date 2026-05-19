@@ -73,7 +73,7 @@ const marcos = {
     foco: "Desenvolvimento Full-Stack",
     certificacao: "IA-900",
     aprendendo: ["JavaScript", "Python", "Back-end", "IA"],
-    hobbies: ["Esportes", "Tecnologia", "Academia"],
+    hobbies: ["Muay-Thai", "Tecnologia", "Violão"],
     objetivo: "Evoluir constantemente 🚀"
 }
 ```
